@@ -1,6 +1,17 @@
 body {
     margin: 0;
-    background: pink;
-    color: green;
+    background: black;
+    color: grey;
     text-align: center;
+}
+
+#header {
+    color: white;
+}
+
+a:link {
+    color: grey;
+}
+a:visited {
+    color: grey;
 }
