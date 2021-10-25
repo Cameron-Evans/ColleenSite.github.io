@@ -18,3 +18,71 @@ a:visited {
 a:hover {
     color: white;
 }
+#Amain {
+    float: left;
+    max-width: 50%;
+}
+#A1 {
+    max-width: 30%;
+}
+#A2 {
+    max-width: 30%;
+}
+#B {
+    clear: both;
+}
+#Bmain {
+    float: none;
+    max-width: 80%;
+}
+#B1 {
+    max-width: 30%;
+    padding: 30px;
+}
+#B2 {
+    max-width: 30%;
+    padding: 30px;
+}
+#C {
+    clear: both;
+}
+#Cmain {
+    max-width: 40%;
+    padding: 50px;
+}
+#C1 {
+    max-width: 40%;
+    padding: 50px;
+}
+#Dmain {
+    float: left;
+    padding: 100px;
+}
+
+#E {
+    clear: both;
+}
+#Emain {
+    max-width: 35%;
+    padding: 50px;
+}
+#E1 {
+    max-width: 20%;
+    padding: 50px;
+}
+#F {
+    clear: both;
+}
+#Fmain {
+    max-width: 40%;
+    padding: 50px;
+}
+#F1 {
+    max-width: 30%;
+    padding: 50px;
+}
+#Lee {
+    float: left;
+    padding: 40px;
+    max-width: 35%;
+}
