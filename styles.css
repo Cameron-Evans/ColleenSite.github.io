@@ -55,8 +55,8 @@ a:hover {
     padding: 50px;
 }
 #Dmain {
-    float: left;
     padding: 100px;
+    max-width: 80%;
 }
 
 #E {
